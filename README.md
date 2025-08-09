@@ -1,4 +1,4 @@
-Futurana — Retro-Futuristic Web3 RPG (UE5)
+Futurana-X — Retro-Futuristic Web3 RPG (UE5)
 Open-world sci-fi RPG with an energy-based economy and NFT heroes. Built in Unreal Engine 5. Playable systems already integrated; teaser, deck, and docs inside.
 
 Status: Pre-alpha (in development) • Target platform: PC (Epic Games Store) • Target chain: Somnia L1 (TBD)
@@ -37,7 +37,7 @@ Customization: wearable items with in-game bonuses; distinctive looks (color pal
 Core systems implemented and working together in-engine.
 Snapshot: 110 GB+ of levels, assets, and systems.
 
-Player & Controls — Playable alien character, UE5.5 AnimBP locomotion, crouch, foot IK, swimming, narrow-space traversal, gamepad support.
+Player & Controls — Playable alien character, UE5.6 AnimBP locomotion, crouch, foot IK, swimming, narrow-space traversal, gamepad support.
 Itemization & Crafting — Inventory, equipment, hotbar, currency, storage containers, loot & treasure chests, vendor/banker NPCs, crafting, spoilable items, usable/reusable items, pickup with outline, radial item menu.
 Quests & Progression — Quest window/log/tracker, unique & repeatable quests, custom prerequisites, multiplayer quest sharing, save/load quest states, XP & level-up (incl. custom tracks for reputation/crafting).
 Combat & AI — Weapons (pistol/rifle/shotgun), grenade system, damage pop-numbers, stealth/X-ray scan (TLoU-style), AI hearing & chase, path/spline guides, Paragon-based enemies (e.g., spider), balance system.
@@ -117,5 +117,5 @@ Open to: co-marketing, investment — or exclusive publishing / full IP acquisit
 This public repo is a tech overview. Game source code and private builds are available under NDA upon request.
 
 ⚖️ Legal
-© Luarte Studio. All rights reserved. “Futurana” working title.
+© Luarte Studio. All rights reserved. “Futurana-X” working title.
 

@@ -4,7 +4,8 @@ Open-world sci-fi RPG with an energy-based economy and NFT heroes. Built in Unre
 Status: Pre-alpha (in development) • Target platform: PC (Epic Games Store) • Target chain: Somnia L1 (TBD)
 What we’re looking for: funding, marketing amplification, community growth, investor intros — acquisition considered.
 
-🔗 Quick Links
+🔗 Website: www.luartestudio.com
+
 🎬 Teaser: https://youtu.be/CdfWXi-oBaU?si=BzgT1sWQ_RmbN-FB
 
 📄 Pitch Deck (PDF): /docs/pitch-deck.pdf
